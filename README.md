@@ -1,14 +1,3 @@
 # moodle-mcp
 
-```
- _______________________________________
-/ If you think last Tuesday was a drag, \
-| wait till you see what happens        |
-\ tomorrow!                             /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+Configuración de MCP en moodle.
