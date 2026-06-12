@@ -31,3 +31,5 @@ Configuración de MCP en moodle.
 - [Moodle Plugins directory: Model Context Protocol | Moodle.org](https://moodle.org/plugins/webservice_mcp)
 - [ijaureguialzo/moodle-webservice_mcp: A Moodle web service plugin that implements the MCP for seamless integration with AI assistants](https://github.com/ijaureguialzo/moodle-webservice_mcp)
 - [Web services - MoodleDocs](https://docs.moodle.org/502/en/Web_services)
+- [Iconos de la UE para el etiquetado de contenidos generados por IA | Configurar el futuro digital de Europa](https://digital-strategy.ec.europa.eu/es/policies/eu-icons-labelling-ai-generated-content)
+
