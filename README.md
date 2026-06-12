@@ -25,3 +25,9 @@ Configuración de MCP en moodle.
      ssl_verify: false
      enabled: true
    ```
+
+## Referencias
+
+- [Moodle Plugins directory: Model Context Protocol | Moodle.org](https://moodle.org/plugins/webservice_mcp)
+- [ijaureguialzo/moodle-webservice_mcp: A Moodle web service plugin that implements the MCP for seamless integration with AI assistants](https://github.com/ijaureguialzo/moodle-webservice_mcp)
+- [Web services - MoodleDocs](https://docs.moodle.org/502/en/Web_services)
