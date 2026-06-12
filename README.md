@@ -11,7 +11,7 @@ Configuración de MCP en moodle.
 3. Activar el [protocolo MCP](https://moodle.test/admin/settings.php?section=webserviceprotocols).
 
 4. [Crear el servicio](https://moodle.test/admin/settings.php?section=externalservices) y darle permisos añadiendo
-   funciones (ej. `core_course*` y `mod_forum*`).
+   funciones (ej. `core_course_*` y `mod_forum_*`).
 
 5. [Crear un token](https://moodle.test/admin/webservice/tokens.php) para el usuario que queramos que use el agente.
 
